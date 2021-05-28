@@ -11,6 +11,7 @@ namespace Financeiro_Software
         static void Main(string[] args)
         {
             Console.WriteLine("olá 1");
+            Console.WriteLine("olá 2");
         }
     }
 }
