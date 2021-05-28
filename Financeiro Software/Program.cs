@@ -36,6 +36,7 @@ namespace Financeiro_Software
             }
 
 
+            Console.ReadKey();
         }
     }
 }
