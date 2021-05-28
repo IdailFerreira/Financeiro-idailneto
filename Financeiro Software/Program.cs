@@ -18,14 +18,29 @@ namespace Financeiro_Software
             Console.WriteLine("Idail Ferreira de Vasconcelos Neto");
             Console.WriteLine("28 anos");
 
-            Console.ReadKey();
+            
 
             for(int i = 0;i < 10;i++)
             {
                 Console.WriteLine("oi");
             }
 
+            for(int i = 0;i < 10;i++)
+            {
+                Console.WriteLine("oi");
+            }
 
+            for(int i = 0;i < 10;i++)
+            {
+                Console.WriteLine("oi");
+            }
+
+            for(int i = 0;i < 10;i++)
+            {
+                Console.WriteLine("oi");
+            }
+
+            Console.ReadKey();
         }
     }
 }
