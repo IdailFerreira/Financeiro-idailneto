@@ -35,12 +35,7 @@ namespace Financeiro_Software
                 Console.WriteLine("oi");
             }
 
-            for(int i = 0;i < 10;i++)
-            {
-                Console.WriteLine("oi");
-            }
 
-            Console.ReadKey();
         }
     }
 }
