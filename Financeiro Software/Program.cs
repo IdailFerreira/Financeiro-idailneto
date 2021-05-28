@@ -8,6 +8,7 @@ namespace Financeiro_Software
 {
     class Program
     {
+        int i = 0;
         static void Main(string[] args)
         {
             Console.WriteLine("olá 1");
@@ -18,6 +19,11 @@ namespace Financeiro_Software
             Console.WriteLine("28 anos");
 
             Console.ReadKey();
+
+            for(int i = 0;i < 10;i++)
+            {
+                Console.WriteLine("oi");
+            }
         }
     }
 }
