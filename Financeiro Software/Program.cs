@@ -50,8 +50,14 @@ namespace Financeiro_Software
                 Console.WriteLine("28");
             }
 
+            public void mostra_cidade_estado()
+            {
+                Console.WriteLine("Campo Grande - Mato Grosso do Sul");
+            }
+
             mostra_idade();
             mostra_nome();
+            mostra_cidade_estado();
 
             Console.ReadKey();
         }
