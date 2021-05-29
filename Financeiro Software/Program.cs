@@ -38,6 +38,21 @@ namespace Financeiro_Software
 
             Console.WriteLine("Campo Grande - Mato Grosso do Sul");
 
+            
+
+            public void mostra_nome()
+            {
+                Console.WriteLine("Idail");
+            }
+
+            public void mostra_idade()
+            {
+                Console.WriteLine("28");
+            }
+
+            mostra_idade();
+            mostra_nome();
+
             Console.ReadKey();
         }
     }
